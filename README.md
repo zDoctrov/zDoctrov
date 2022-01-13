@@ -1,6 +1,4 @@
 ### Hi, my name is Zachary Doctrove.
-
-### I am an...
 #### -Undergraduate at the University of Michigan                (Almost done!)
 #### -iOS developer with experience in user experience design    (This was my senior design project in the Summer and Fall of 2021)
 #### -Web technology enthusiast                                  (Worked on a simple inventory management database called RDA-Inventory)
