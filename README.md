@@ -3,7 +3,7 @@
 #### -iOS developer with experience in user experience design    (This was my senior design project in the Summer and Fall of 2021)
 #### -Web technology enthusiast                                  (Worked on a simple inventory management database called RDA-Inventory)
 
-######## Linkedin: https://www.linkedin.com/in/zacharydoctrove/
+###### Linkedin: https://www.linkedin.com/in/zacharydoctrove/
 
   
 <!--
