@@ -2,6 +2,9 @@
 #### -Undergraduate at the University of Michigan                (Almost done!)
 #### -iOS developer with experience in user experience design    (This was my senior design project in the Summer and Fall of 2021)
 #### -Web technology enthusiast                                  (Worked on a simple inventory management database called RDA-Inventory)
+
+##### linkedin: https://www.linkedin.com/in/zacharydoctrove/
+
   
 <!--
 **zDoctrov/zDoctrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
